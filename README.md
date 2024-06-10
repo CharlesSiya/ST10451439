@@ -138,7 +138,20 @@ String  strStudentNumber
 
  
 
-5. Errors in my Application 
+5. ALL the code in my application
+6. 
+7. ![Splash screen code](https://github.com/VCPTA/haw1-imad5112-part1-submission-CharlesSiya/assets/164175154/b53cf480-a650-4293-9ec0-ae199f26054b)
+8. ![Main screen code](https://github.com/VCPTA/haw1-imad5112-part1-submission-CharlesSiya/assets/164175154/c6cf1ec8-2e80-4dff-bb5f-221d67736871)
+9. ![Main screen code (2)](https://github.com/VCPTA/haw1-imad5112-part1-submission-CharlesSiya/assets/164175154/c281e06f-f461-4f8d-9832-e32e0e35c5ba)
+10. ![Main screen code (3)](https://github.com/VCPTA/haw1-imad5112-part1-submission-CharlesSiya/assets/164175154/526b856c-fa21-41cb-afbb-4654a74e444c)
+11. ![View Details code](https://github.com/VCPTA/haw1-imad5112-part1-submission-CharlesSiya/assets/164175154/ead8418a-2673-4f05-a504-5989fe4b878a)
+
+
+12. All the errorrs in the code
+13. ![Splash screen errors](https://github.com/VCPTA/haw1-imad5112-part1-submission-CharlesSiya/assets/164175154/69d330fb-4f16-430e-aaac-005d19daf8f5)
+14. ![Errors in the main screen](https://github.com/VCPTA/haw1-imad5112-part1-submission-CharlesSiya/assets/164175154/10d2eb81-295d-4e0c-81ff-602669a2b211)
+
+
 
  https://advtechonline-my.sharepoint.com/:p:/g/personal/st10451439_vcconnect_edu_za/EbWrnuVBVzdDsOt-ZTQGXmQBaVLS3NebLB6Hzs4FVeG0WA?e=D8qmHv
 
