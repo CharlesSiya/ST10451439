@@ -141,6 +141,16 @@ String  strStudentNumber
 5. Errors in my Application 
 
  https://advtechonline-my.sharepoint.com/:p:/g/personal/st10451439_vcconnect_edu_za/EbWrnuVBVzdDsOt-ZTQGXmQBaVLS3NebLB6Hzs4FVeG0WA?e=D8qmHv
+
+
+ ![Splash screen](https://github.com/CharlesSiya/ST10451439/assets/164175154/d7b6a10a-3ae3-495f-9a00-cef6c4041b6d)
+ ![Main Screen](https://github.com/CharlesSiya/ST10451439/assets/164175154/900033d3-14ab-4876-a0ea-d67d4a1016e4)
+ ![View Details screen](https://github.com/CharlesSiya/ST10451439/assets/164175154/7891a119-2624-4714-aebb-77be6a88cb20)
+
+
+
+
+ 
  
 
  
